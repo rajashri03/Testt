@@ -9,7 +9,10 @@ namespace Test
         //uc3-div
         static void Main(string[] args)
         {
+            //uc1
             Console.WriteLine("Adiition");
+            //uc2
+            Console.WriteLine("sub");
         }
     }
 }
